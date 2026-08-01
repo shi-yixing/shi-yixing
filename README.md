@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yixing Shi
 
-<!--
-**shi-yixing/shi-yixing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence undergraduate interested in machine learning, computer vision, algorithms, and software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Artificial Intelligence
+- Interested in machine learning, deep learning, computer vision, and algorithm design
+- Currently building academic and personal AI projects
+- Using GitHub to organize my portfolio and project documentation
+
+## Technical Skills
+
+- Programming: Python, C, C++
+- AI / Machine Learning: Scikit-learn, PyTorch
+- Computer Vision: OpenCV
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+## Featured Projects
+
+- Traffic Sign Recognition using ResNet
+- Maze Pathfinding Algorithm Comparison
+- Emotion Recognition Web Application
+- Gomoku AI using Minimax
+
+## Current Focus
+
+- Improving project documentation
+- Building reproducible AI projects
+- Learning better software engineering practices
+
+## Contact
+
+- GitHub: https://github.com/shi-yixing
